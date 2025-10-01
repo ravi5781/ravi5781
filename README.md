@@ -37,17 +37,59 @@
 
 ---
 
-## 📈 Activity Graph  
+## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravi5781&theme=react-dark&hide_border=true" />
+  <!-- Dark mode -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ravi5781/ravi5781/output/snake-dark.svg" />
+    <!-- Light mode -->
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ravi5781/ravi5781/output/snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ravi5781/ravi5781/output/snake.svg" />
+  </picture>
 </p>
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ravi5781/ravi5781/output/github-contribution-grid-snake.svg" />
-</p>
+## 🌟 Featured Projects  
+
+<table>
+<tr>
+<td align="center" width="50%">
+  
+### 🍔 Foodies Hub  
+[![Foodies Hub](https://github.com/ravi5781/Foodies-Hub/blob/main/demo.gif)](https://github.com/ravi5781/Foodies-Hub)  
+Full-stack **Food Ordering System** using Java, JSP, Servlets, JDBC, MySQL.  
+Secure login, session handling, order management, menu browsing.  
+
+</td>
+<td align="center" width="50%">
+  
+### 🎓 Student Management System  
+[![Student Management](https://github.com/ravi5781/student_management/blob/main/demo.gif)](https://github.com/ravi5781/student_management)  
+Full-stack **Student Records Manager** with Login + CRUD operations.  
+Built with Java, JSP, Servlets, MySQL (MVC architecture).  
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+  
+### ✋ AirTouch Gesture & Voice Command  
+[![Gesture Control](https://github.com/ravi5781/AirTouch-Gesture-and-Voice-Command-Interface-for-PCs/blob/main/demo.gif)](https://github.com/ravi5781/AirTouch-Gesture-and-Voice-Command-Interface-for-PCs)  
+Control your PC with **Gestures + Voice Commands** using Python, OpenCV, MediaPipe.  
+
+</td>
+<td align="center" width="50%">
+  
+### 🧾 Bill Generator System  
+[![Bill Generator](https://github.com/ravi5781/Bill_Generator_System/blob/main/demo.gif)](https://github.com/ravi5781/Bill_Generator_System)  
+Console-based **Billing System in Java**.  
+Generates itemized invoices with tax & discount support.  
+
+</td>
+</tr>
+</table>
 
 ---
 
