@@ -81,8 +81,7 @@
 <h3 align="center">🧾 Bill Generator</h3>
 <p align="center">
   <a href="https://github.com/ravi5781/Bill_Generator_System">
-    <img src="https://media.giphy.com/media/l0MYr0VJG6jGv73Co/giphy.gif" width="400"/>
-    <!-- replace with a receipt-print / calculator / billing style GIF you like -->
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjlnZ3Y3OTZxbW00dzU1NGl6dGxnaTAyNHQ0bHR4ZDlwemZreTk1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/QytRJAvwnaU7rvvjxC/giphy.gif" width="400"/>
   </a>
 </p>
 <p align="center">
@@ -93,6 +92,7 @@
   <li>Generates invoice dynamically from user input (item, qty, price, tax).</li>
   <li>Stores generated bills in external files for history & retrieval.</li>
 </ul>
+
 
 
 ---
