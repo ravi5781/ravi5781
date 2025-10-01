@@ -95,21 +95,21 @@
 
 ---
 
-
-
-## 🏆 Key Achievements & Certifications  
+## 🏆 Achievements & Certifications  
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Full-Stack-6DB33F?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Certified-Django-092E20?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open-Source-Contributor-FC6D26?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 <ul>
-  <li>Completed <strong>Java Full Stack Development Certification</strong> with hands-on projects.</li>
-  <li>Built & deployed multiple full-stack applications (JSP, Servlets, Spring, React, MySQL).</li>
-  <li>Contributed to open-source projects on GitHub with active pull requests & issue resolutions.</li>
-  <li>Participated in hackathons & coding competitions, achieving top ranks in local challenges.</li>
+  <li>💻 **Certified Java Full Stack Developer** – Hands-on experience building enterprise-level applications.</li>
+  <li>🚀 Developed and deployed multiple **full-stack projects** using Java, JSP, Servlets, Spring, React, and MySQL.</li>
+  <li>🌐 Active **open-source contributor** with pull requests and feature additions on GitHub.</li>
+  <li>🏅 Winner & participant in coding competitions and hackathons, achieving top ranks and recognition.</li>
+  <li>📜 Completed professional **Django & Python certifications**, strengthening backend and AI/automation skills.</li>
 </ul>
+
 
 ---
 ## 📊 GitHub Stats  
