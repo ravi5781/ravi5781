@@ -50,71 +50,83 @@
 ---
 ## 🌟 Featured Projects  
 
-### 🍔 Foodies Hub  
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=🍔+Foodies+Hub;Online+Food+Ordering;Java+%7C+JSP+%7C+MySQL" alt="Foodies Hub Typing Animation" />
-</p>
-
 <p align="center">
   <a href="https://github.com/ravi5781/Foodies-Hub">
-    <!-- sample food / recipe gif placeholder -->
-    <img src="https://media.giphy.com/media/3o7aD6LuxEvkRBgOBy/giphy.gif" width="400" alt="Food ordering / UI demo placeholder" />
+    <svg width="150" height="100" viewBox="0 0 150 100">
+      <!-- Burger icon circle -->
+      <circle cx="75" cy="30" r="12" fill="#00C2FF">
+        <animate attributeName="cy" values="30;50;30" dur="1s" repeatCount="indefinite"/>
+      </circle>
+      <!-- Order dots -->
+      <circle cx="45" cy="50" r="6" fill="#00C2FF">
+        <animate attributeName="cy" values="50;40;50" dur="1s" begin="0s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="75" cy="50" r="6" fill="#00C2FF">
+        <animate attributeName="cy" values="50;40;50" dur="1s" begin="0.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="105" cy="50" r="6" fill="#00C2FF">
+        <animate attributeName="cy" values="50;40;50" dur="1s" begin="0.4s" repeatCount="indefinite"/>
+      </circle>
+    </svg>
   </a>
 </p>
+
 
 🔹 Tech: Java, JSP, Servlets, JDBC, MySQL  
 🔹 Features: Secure login, menu browsing, order tracking  
 
 ---
-
-### 🎓 Student Management System  
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=🎓+Student+Management;CRUD+Operations;Java+%7C+JSP+%7C+JDBC" alt="Student Management Typing Animation" />
-</p>
-
 <p align="center">
   <a href="https://github.com/ravi5781/student_management">
-    <!-- using a generic “list / table UI” gif as placeholder -->
-    <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="400" alt="Student / data UI placeholder" />
+    <svg width="150" height="100" viewBox="0 0 150 100">
+      <rect x="20" y="20" width="110" height="10" fill="#00C2FF">
+        <animate attributeName="x" values="20;25;20" dur="1s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="20" y="40" width="110" height="10" fill="#00C2FF">
+        <animate attributeName="x" values="20;25;20" dur="1s" begin="0.2s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="20" y="60" width="110" height="10" fill="#00C2FF">
+        <animate attributeName="x" values="20;25;20" dur="1s" begin="0.4s" repeatCount="indefinite"/>
+      </rect>
+    </svg>
   </a>
 </p>
 
-🔹 Tech: Java, JSP, Servlets, JDBC  
-🔹 Features: Registration, Login, CRUD student records  
-
 ---
-
-### ✋ AirTouch Gesture & Voice Command  
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=✋+AirTouch+Gesture+%26+Voice;Hand+Tracking+%7C+Voice;Python+%7C+OpenCV+%7C+MediaPipe" alt="Gesture Control Typing Animation" />
-</p>
-
 <p align="center">
   <a href="https://github.com/ravi5781/AirTouch-Gesture-and-Voice-Command-Interface-for-PCs">
-    <!-- placeholder showing motion / control UI -->
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="Gesture / hand tracking placeholder" />
+    <svg width="100" height="100" viewBox="0 0 100 100">
+      <!-- Hand icon (simplified circle + fingers) -->
+      <circle cx="50" cy="60" r="12" fill="#00C2FF">
+        <animateTransform attributeName="transform" type="rotate" values="-10 50 60;10 50 60;-10 50 60" dur="1.5s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="40" cy="50" r="5" fill="#00C2FF">
+        <animate attributeName="cy" values="50;45;50" dur="1.5s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="60" cy="50" r="5" fill="#00C2FF">
+        <animate attributeName="cy" values="50;45;50" dur="1.5s" begin="0.2s" repeatCount="indefinite"/>
+      </circle>
+    </svg>
   </a>
 </p>
 
-🔹 Tech: Python, OpenCV, MediaPipe, SpeechRecognition  
-🔹 Features: Hand-tracking mouse control + voice commands  
-
 ---
-
-### 🧾 Bill Generator System  
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=🧾+Bill+Generator+System;Invoice+Creation;Java+%7C+File+Handling" alt="Bill Generator Typing Animation" />
-</p>
 
 <p align="center">
   <a href="https://github.com/ravi5781/Bill_Generator_System">
-    <!-- placeholder for document/invoice style UI -->
-    <img src="https://media.giphy.com/media/l3vR1KkK1YWwcmfUk/giphy.gif" width="400" alt="Document / invoice placeholder" />
+    <svg width="150" height="100" viewBox="0 0 150 100">
+      <!-- Paper rectangle -->
+      <rect x="40" y="20" width="70" height="60" fill="#00C2FF" opacity="0.7">
+        <animate attributeName="y" values="20;25;20" dur="1s" repeatCount="indefinite"/>
+      </rect>
+      <!-- Checkmark -->
+      <polyline points="50,50 65,65 90,35" stroke="white" stroke-width="4" fill="none">
+        <animate attributeName="opacity" values="0;1;0" dur="1.2s" repeatCount="indefinite"/>
+      </polyline>
+    </svg>
   </a>
 </p>
-
-🔹 Tech: Java, File Handling  
-🔹 Features: Itemized invoice generation, text-file storage  
+  
 ---
 
 ## 🌐 Connect With Me  
