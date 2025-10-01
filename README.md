@@ -4,35 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Java+Developer;Fullstack+Learner;Tech+Explorer;Open+Source+Contributor" alt="Typing Animation" />
 </h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
-
----
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=🔭+Java+Fullstack+Intern+@+Pentagon+Space+Pvt+Ltd;🌱+Exploring+Spring+Boot,+ReactJS,+Cloud;🎯+Goal:+Fullstack+Developer;⚡+Loves+Cricket,+Music,+Tech" alt="About Me Typing Animation" />
-</p>
-
-<p align="center">
-  <!-- Animated Icons using SVG -->
-  <svg width="250" height="50" viewBox="0 0 250 50">
-    <!-- 🔭 Icon Bounce -->
-    <text x="10" y="35" font-size="24">🔭</text>
-    <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="1s" repeatCount="indefinite" />
-    
-    <!-- 🌱 Icon Bounce -->
-    <text x="70" y="35" font-size="24">🌱</text>
-    <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="1s" begin="0.2s" repeatCount="indefinite" />
-    
-    <!-- 🎯 Icon Bounce -->
-    <text x="130" y="35" font-size="24">🎯</text>
-    <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="1s" begin="0.4s" repeatCount="indefinite" />
-    
-    <!-- ⚡ Icon Bounce -->
-    <text x="190" y="35" font-size="24">⚡</text>
-    <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="1s" begin="0.6s" repeatCount="indefinite" />
-  </svg>
-</p>
 
 ---
 
