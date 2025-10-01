@@ -112,20 +112,6 @@
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <!-- Dark mode -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ravi5781/ravi5781/output/snake-dark.svg" />
-    <!-- Light mode -->
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ravi5781/ravi5781/output/snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ravi5781/ravi5781/output/snake.svg" />
-  </picture>
-</p>
----
-
----
-
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="mailto:ravikiransh018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
