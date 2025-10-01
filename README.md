@@ -15,20 +15,28 @@
 </p>
 
 ---
----
+
 
 ## 🛠 Featured Projects  
 
 <h3 align="center">🍔 Foodies Hub</h3>
 <p align="center">
   <a href="https://github.com/ravi5781/Foodies-Hub">
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"/>
-    <!-- You can change this URL to one of the GIFs you like or upload your own -->
+    <img src="https://media.giphy.com/media/LkfI63R7cjHGz5EUOH/giphy.gif" width="400"/>
+    <!-- changed GIF to food delivery style -->
   </a>
 </p>
 <p align="center">
-  Full-stack food ordering system built with **Java, Servlets, JSP, JDBC, MySQL**.  
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Servlets-6DB33F?style=for-the-badge&logo=apache-tomcat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSP-FF6900?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JDBC-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+<ul>
+  <li>Built full-stack food ordering system with Admin & Customer modules.</li>
+  <li>Implemented secure login, order tracking, search & cart functionalities.</li>
+</ul>
 
 ---
 
@@ -39,8 +47,16 @@
   </a>
 </p>
 <p align="center">
-  A web app to manage student records (secure login, CRUD, session, etc.).  
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSP-FF6900?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Servlets-6DB33F?style=for-the-badge&logo=apache-tomcat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JDBC-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+<ul>
+  <li>Handles student registration, login, CRUD operations, and secure sessions.</li>
+  <li>Uses MVC architecture to separate logic & UI cleanly.</li>
+</ul>
 
 ---
 
@@ -51,22 +67,36 @@
   </a>
 </p>
 <p align="center">
-  Control your PC using **hand gestures (OpenCV, MediaPipe)** + **voice commands**.  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpeechRecognition-FF8C00?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
+<ul>
+  <li>Interprets hand gestures via OpenCV/MediaPipe to perform mouse actions.</li>
+  <li>Implements voice commands for hands-free control (volume, open apps, etc.).</li>
+</ul>
 
 ---
 
 <h3 align="center">🧾 Bill Generator</h3>
 <p align="center">
   <a href="https://github.com/ravi5781/Bill_Generator_System">
-    <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="400"/>
+    <img src="https://media.giphy.com/media/3o6Zglef3CBPceDn1S/giphy.gif" width="400"/>
+    <!-- you’ll need to replace this with a receipt/calculator style GIF you prefer -->
   </a>
 </p>
 <p align="center">
-  A console-based billing system in **Java**, storing invoices in files.  
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FileHandling-F3CA20?style=for-the-badge&logo=apache&logoColor=white"/>
 </p>
+<ul>
+  <li>Generates invoice dynamically from user input: item names, qty, price, tax.</li>
+  <li>Stores generated bills in external files for history & retrieval.</li>
+</ul>
 
 ---
+
 
 
 
