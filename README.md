@@ -9,26 +9,29 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=🔭+Java+Fullstack+Intern+@+Pentagon+Space+Pvt+Ltd;🌱+Exploring+Spring+Boot,+ReactJS,+Cloud;🎯+Goal:+Fullstack+Developer;⚡+Loves+Cricket,+Music,+Tech" alt="About Me Typing Animation" />
+</p>
 
 <p align="center">
-  <span>🔭</span>
-  <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="20" />
-  Currently Java Fullstack Intern @ Pentagon Space Pvt Ltd
-</p>
-<p align="center">
-  <span>🌱</span>
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="20" />
-  Exploring Spring Boot, ReactJS, Cloud
-</p>
-<p align="center">
-  <span>🎯</span>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="20" />
-  Goal: Fullstack Developer
-</p>
-<p align="center">
-  <span>⚡</span>
-  <img src="https://media.giphy.com/media/l0ExdMHUDKteztyfe/giphy.gif" width="20" />
-  Loves Cricket, Music, Tech
+  <!-- Animated Icons using SVG -->
+  <svg width="250" height="50" viewBox="0 0 250 50">
+    <!-- 🔭 Icon Bounce -->
+    <text x="10" y="35" font-size="24">🔭</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="1s" repeatCount="indefinite" />
+    
+    <!-- 🌱 Icon Bounce -->
+    <text x="70" y="35" font-size="24">🌱</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="1s" begin="0.2s" repeatCount="indefinite" />
+    
+    <!-- 🎯 Icon Bounce -->
+    <text x="130" y="35" font-size="24">🎯</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="1s" begin="0.4s" repeatCount="indefinite" />
+    
+    <!-- ⚡ Icon Bounce -->
+    <text x="190" y="35" font-size="24">⚡</text>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -5;0 0" dur="1s" begin="0.6s" repeatCount="indefinite" />
+  </svg>
 </p>
 
 ---
