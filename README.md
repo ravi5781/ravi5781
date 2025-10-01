@@ -10,11 +10,26 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🔭 Currently **Java Fullstack Intern @ Pentagon Space Pvt Ltd**  
-- 🌱 Exploring **Spring Boot, ReactJS, and Cloud**  
-- 🎯 Goal: To become a **Fullstack Developer**  
-- ⚡ Fun fact: I love **Cricket, Music, and Exploring Tech**  
+<p align="center">
+  <span>🔭</span>
+  <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="20" />
+  Currently Java Fullstack Intern @ Pentagon Space Pvt Ltd
+</p>
+<p align="center">
+  <span>🌱</span>
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="20" />
+  Exploring Spring Boot, ReactJS, Cloud
+</p>
+<p align="center">
+  <span>🎯</span>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="20" />
+  Goal: Fullstack Developer
+</p>
+<p align="center">
+  <span>⚡</span>
+  <img src="https://media.giphy.com/media/l0ExdMHUDKteztyfe/giphy.gif" width="20" />
+  Loves Cricket, Music, Tech
+</p>
 
 ---
 
