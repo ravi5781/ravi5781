@@ -22,7 +22,7 @@
 <h3 align="center">🍔 Foodies Hub</h3>
 <p align="center">
   <a href="https://github.com/ravi5781/Foodies-Hub">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3J1aXl6MmQyYXBjZW5ycGN0dnk5a3F0bGZ0dGM4Nm8zc20xZWsxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hu475i12tHBg94FIeD/giphy.gif" width="600"/>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3J1aXl6MmQyYXBjZW5ycGN0dnk5a3F0bGZ0dGM4Nm8zc20xZWsxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hu475i12tHBg94FIeD/giphy.gif" width="600" height="400"/>
   </a>
 </p>
 <p align="center">
