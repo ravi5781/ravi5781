@@ -52,44 +52,51 @@
 
 ## 🌟 Featured Projects  
 
-<table>
-<tr>
-<td align="center" width="50%">
-  
 ### 🍔 Foodies Hub  
-[![Foodies Hub](https://github.com/ravi5781/Foodies-Hub/blob/main/demo.gif)](https://github.com/ravi5781/Foodies-Hub)  
-Full-stack **Food Ordering System** using Java, JSP, Servlets, JDBC, MySQL.  
-Secure login, session handling, order management, menu browsing.  
+<p align="center">
+  <a href="https://github.com/ravi5781/Foodies-Hub">
+    <img src="https://via.placeholder.com/400x220.png?text=Foodies+Hub+Demo+GIF" width="400" alt="Foodies Hub"/>
+  </a>
+</p>
 
-</td>
-<td align="center" width="50%">
-  
+🔹 Tech: Java, JSP, Servlets, JDBC, MySQL  
+🔹 Features: Secure login, menu browsing, order tracking  
+
+---
+
 ### 🎓 Student Management System  
-[![Student Management](https://github.com/ravi5781/student_management/blob/main/demo.gif)](https://github.com/ravi5781/student_management)  
-Full-stack **Student Records Manager** with Login + CRUD operations.  
-Built with Java, JSP, Servlets, MySQL (MVC architecture).  
+<p align="center">
+  <a href="https://github.com/ravi5781/student_management">
+    <img src="https://via.placeholder.com/400x220.png?text=Student+Management+Demo+GIF" width="400" alt="Student Management"/>
+  </a>
+</p>
 
-</td>
-</tr>
+🔹 Tech: Java, JSP, Servlets, JDBC  
+🔹 Features: Registration, Login, CRUD student records  
 
-<tr>
-<td align="center" width="50%">
-  
+---
+
 ### ✋ AirTouch Gesture & Voice Command  
-[![Gesture Control](https://github.com/ravi5781/AirTouch-Gesture-and-Voice-Command-Interface-for-PCs/blob/main/demo.gif)](https://github.com/ravi5781/AirTouch-Gesture-and-Voice-Command-Interface-for-PCs)  
-Control your PC with **Gestures + Voice Commands** using Python, OpenCV, MediaPipe.  
+<p align="center">
+  <a href="https://github.com/ravi5781/AirTouch-Gesture-and-Voice-Command-Interface-for-PCs">
+    <img src="https://via.placeholder.com/400x220.png?text=Gesture+Control+Demo+GIF" width="400" alt="Gesture Control"/>
+  </a>
+</p>
 
-</td>
-<td align="center" width="50%">
-  
+🔹 Tech: Python, OpenCV, MediaPipe, SpeechRecognition  
+🔹 Features: Hand-tracking mouse control + voice commands  
+
+---
+
 ### 🧾 Bill Generator System  
-[![Bill Generator](https://github.com/ravi5781/Bill_Generator_System/blob/main/demo.gif)](https://github.com/ravi5781/Bill_Generator_System)  
-Console-based **Billing System in Java**.  
-Generates itemized invoices with tax & discount support.  
+<p align="center">
+  <a href="https://github.com/ravi5781/Bill_Generator_System">
+    <img src="https://via.placeholder.com/400x220.png?text=Bill+Generator+Demo+GIF" width="400" alt="Bill Generator"/>
+  </a>
+</p>
 
-</td>
-</tr>
-</table>
+🔹 Tech: Java, File Handling  
+🔹 Features: Itemized invoice generation, text-file storage  
 
 ---
 
