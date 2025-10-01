@@ -47,6 +47,7 @@
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ravi5781/ravi5781/output/snake.svg" />
   </picture>
 </p>
+---
 ## 🌟 Featured Projects  
 
 ### 🍔 Foodies Hub  
@@ -56,7 +57,8 @@
 
 <p align="center">
   <a href="https://github.com/ravi5781/Foodies-Hub">
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="Demo GIF (placeholder)" />
+    <!-- sample food / recipe gif placeholder -->
+    <img src="https://media.giphy.com/media/3o7aD6LuxEvkRBgOBy/giphy.gif" width="400" alt="Food ordering / UI demo placeholder" />
   </a>
 </p>
 
@@ -72,7 +74,8 @@
 
 <p align="center">
   <a href="https://github.com/ravi5781/student_management">
-    <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="400" alt="Demo GIF (placeholder)" />
+    <!-- using a generic “list / table UI” gif as placeholder -->
+    <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="400" alt="Student / data UI placeholder" />
   </a>
 </p>
 
@@ -88,7 +91,8 @@
 
 <p align="center">
   <a href="https://github.com/ravi5781/AirTouch-Gesture-and-Voice-Command-Interface-for-PCs">
-    <img src="https://media.giphy.com/media/3o7aD6LuxEvkRBgOBy/giphy.gif" width="400" alt="Demo GIF (placeholder)" />
+    <!-- placeholder showing motion / control UI -->
+    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="Gesture / hand tracking placeholder" />
   </a>
 </p>
 
@@ -104,13 +108,13 @@
 
 <p align="center">
   <a href="https://github.com/ravi5781/Bill_Generator_System">
-    <img src="https://media.giphy.com/media/l3vR1KkK1YWwcmfUk/giphy.gif" width="400" alt="Demo GIF (placeholder)" />
+    <!-- placeholder for document/invoice style UI -->
+    <img src="https://media.giphy.com/media/l3vR1KkK1YWwcmfUk/giphy.gif" width="400" alt="Document / invoice placeholder" />
   </a>
 </p>
 
 🔹 Tech: Java, File Handling  
 🔹 Features: Itemized invoice generation, text-file storage  
-
 
 ## 🌐 Connect With Me  
 <p align="center">
