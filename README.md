@@ -23,6 +23,7 @@
 <p align="center">
   <a href="https://github.com/ravi5781/Foodies-Hub">
     <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"/>
+    <!-- You can change this URL to one of the GIFs you like or upload your own -->
   </a>
 </p>
 <p align="center">
@@ -38,7 +39,7 @@
   </a>
 </p>
 <p align="center">
-  A web application to manage student records with **secure login, CRUD, session handling**.  
+  A web app to manage student records (secure login, CRUD, session, etc.).  
 </p>
 
 ---
@@ -62,10 +63,11 @@
   </a>
 </p>
 <p align="center">
-  A console-based **billing system in Java** with file storage for invoices.  
+  A console-based billing system in **Java**, storing invoices in files.  
 </p>
 
 ---
+
 
 
 ## 📊 GitHub Stats  
