@@ -47,15 +47,16 @@
     <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ravi5781/ravi5781/output/snake.svg" />
   </picture>
 </p>
-
----
-
 ## 🌟 Featured Projects  
 
 ### 🍔 Foodies Hub  
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=🍔+Foodies+Hub;Online+Food+Ordering;Java+%7C+JSP+%7C+MySQL" alt="Foodies Hub Typing Animation" />
+</p>
+
+<p align="center">
   <a href="https://github.com/ravi5781/Foodies-Hub">
-    <img src="https://via.placeholder.com/400x220.png?text=Foodies+Hub+Demo+GIF" width="400" alt="Foodies Hub"/>
+    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" alt="Demo GIF (placeholder)" />
   </a>
 </p>
 
@@ -66,8 +67,12 @@
 
 ### 🎓 Student Management System  
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=🎓+Student+Management;CRUD+Operations;Java+%7C+JSP+%7C+JDBC" alt="Student Management Typing Animation" />
+</p>
+
+<p align="center">
   <a href="https://github.com/ravi5781/student_management">
-    <img src="https://via.placeholder.com/400x220.png?text=Student+Management+Demo+GIF" width="400" alt="Student Management"/>
+    <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="400" alt="Demo GIF (placeholder)" />
   </a>
 </p>
 
@@ -78,8 +83,12 @@
 
 ### ✋ AirTouch Gesture & Voice Command  
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=✋+AirTouch+Gesture+%26+Voice;Hand+Tracking+%7C+Voice;Python+%7C+OpenCV+%7C+MediaPipe" alt="Gesture Control Typing Animation" />
+</p>
+
+<p align="center">
   <a href="https://github.com/ravi5781/AirTouch-Gesture-and-Voice-Command-Interface-for-PCs">
-    <img src="https://via.placeholder.com/400x220.png?text=Gesture+Control+Demo+GIF" width="400" alt="Gesture Control"/>
+    <img src="https://media.giphy.com/media/3o7aD6LuxEvkRBgOBy/giphy.gif" width="400" alt="Demo GIF (placeholder)" />
   </a>
 </p>
 
@@ -90,15 +99,18 @@
 
 ### 🧾 Bill Generator System  
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=🧾+Bill+Generator+System;Invoice+Creation;Java+%7C+File+Handling" alt="Bill Generator Typing Animation" />
+</p>
+
+<p align="center">
   <a href="https://github.com/ravi5781/Bill_Generator_System">
-    <img src="https://via.placeholder.com/400x220.png?text=Bill+Generator+Demo+GIF" width="400" alt="Bill Generator"/>
+    <img src="https://media.giphy.com/media/l3vR1KkK1YWwcmfUk/giphy.gif" width="400" alt="Demo GIF (placeholder)" />
   </a>
 </p>
 
 🔹 Tech: Java, File Handling  
 🔹 Features: Itemized invoice generation, text-file storage  
 
----
 
 ## 🌐 Connect With Me  
 <p align="center">
