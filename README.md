@@ -15,6 +15,58 @@
 </p>
 
 ---
+---
+
+## 🛠 Featured Projects  
+
+<h3 align="center">🍔 Foodies Hub</h3>
+<p align="center">
+  <a href="https://github.com/ravi5781/Foodies-Hub">
+    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"/>
+  </a>
+</p>
+<p align="center">
+  Full-stack food ordering system built with **Java, Servlets, JSP, JDBC, MySQL**.  
+</p>
+
+---
+
+<h3 align="center">🎓 Student Management System</h3>
+<p align="center">
+  <a href="https://github.com/ravi5781/student_management">
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+  </a>
+</p>
+<p align="center">
+  A web application to manage student records with **secure login, CRUD, session handling**.  
+</p>
+
+---
+
+<h3 align="center">🖐 AirTouch Gesture & Voice Control</h3>
+<p align="center">
+  <a href="https://github.com/ravi5781/AirTouch-Gesture-and-Voice-Command-Interface-for-PCs">
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+  </a>
+</p>
+<p align="center">
+  Control your PC using **hand gestures (OpenCV, MediaPipe)** + **voice commands**.  
+</p>
+
+---
+
+<h3 align="center">🧾 Bill Generator</h3>
+<p align="center">
+  <a href="https://github.com/ravi5781/Bill_Generator_System">
+    <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="400"/>
+  </a>
+</p>
+<p align="center">
+  A console-based **billing system in Java** with file storage for invoices.  
+</p>
+
+---
+
 
 ## 📊 GitHub Stats  
 <p align="center">
