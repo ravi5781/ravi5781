@@ -78,12 +78,11 @@
 </ul>
 
 ---
-
 <h3 align="center">🧾 Bill Generator</h3>
 <p align="center">
   <a href="https://github.com/ravi5781/Bill_Generator_System">
-    <img src="https://media.giphy.com/media/3o6Zglef3CBPceDn1S/giphy.gif" width="400"/>
-    <!-- you’ll need to replace this with a receipt/calculator style GIF you prefer -->
+    <img src="https://media.giphy.com/media/l0MYr0VJG6jGv73Co/giphy.gif" width="400"/>
+    <!-- replace with a receipt-print / calculator / billing style GIF you like -->
   </a>
 </p>
 <p align="center">
@@ -91,9 +90,10 @@
   <img src="https://img.shields.io/badge/FileHandling-F3CA20?style=for-the-badge&logo=apache&logoColor=white"/>
 </p>
 <ul>
-  <li>Generates invoice dynamically from user input: item names, qty, price, tax.</li>
+  <li>Generates invoice dynamically from user input (item, qty, price, tax).</li>
   <li>Stores generated bills in external files for history & retrieval.</li>
 </ul>
+
 
 ---
 
