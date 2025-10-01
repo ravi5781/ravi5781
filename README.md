@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Java+Developer;Fullstack+Learner;Tech+Explorer;Open+Source+Contributor" alt="Typing Animation" />
 </h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </p>
 
 ---
@@ -13,16 +13,16 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,react,python,django,git,github,linux,vscode,eclipse,intellij&theme=light" />
 </p>
+<p align="center"><em>Comfortable building full-stack applications with these technologies</em></p>
 
 ---
-
 
 ## 🛠 Featured Projects  
 
 <h3 align="center">🍔 Foodies Hub</h3>
 <p align="center">
   <a href="https://github.com/ravi5781/Foodies-Hub">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3J1aXl6MmQyYXBjZW5ycGN0dnk5a3F0bGZ0dGM4Nm8zc20xZWsxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hu475i12tHBg94FIeD/giphy.gif" width="400"/>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3J1aXl6MmQyYXBjZW5ycGN0dnk5a3F0bGZ0dGM4Nm8zc20xZWsxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Hu475i12tHBg94FIeD/giphy.gif" width="320"/>
   </a>
 </p>
 <p align="center">
@@ -33,17 +33,16 @@
   <img src="https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 <ul>
-  <li>Built full-stack food ordering system with Admin & Customer modules.</li>
-  <li>Implemented secure login, order tracking, search & cart functionalities.</li>
+  <li>Built a full-stack food ordering system with Admin & Customer modules for real-time order management.</li>
+  <li>Implemented secure login, order tracking, search & cart functionalities for seamless user experience.</li>
 </ul>
-
 
 ---
 
 <h3 align="center">🎓 Student Management System</h3>
 <p align="center">
   <a href="https://github.com/ravi5781/student_management">
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320"/>
   </a>
 </p>
 <p align="center">
@@ -54,8 +53,8 @@
   <img src="https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 <ul>
-  <li>Handles student registration, login, CRUD operations, and secure sessions.</li>
-  <li>Uses MVC architecture to separate logic & UI cleanly.</li>
+  <li>Manages student registration, login, and CRUD operations with secure sessions.</li>
+  <li>Uses MVC architecture for clean separation of logic and UI.</li>
 </ul>
 
 ---
@@ -63,7 +62,7 @@
 <h3 align="center">🖐 AirTouch Gesture & Voice Control</h3>
 <p align="center">
   <a href="https://github.com/ravi5781/AirTouch-Gesture-and-Voice-Command-Interface-for-PCs">
-    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
   </a>
 </p>
 <p align="center">
@@ -73,15 +72,16 @@
   <img src="https://img.shields.io/badge/SpeechRecognition-FF8C00?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 <ul>
-  <li>Interprets hand gestures via OpenCV/MediaPipe to perform mouse actions.</li>
-  <li>Implements voice commands for hands-free control (volume, open apps, etc.).</li>
+  <li>Detects hand gestures with OpenCV & MediaPipe to perform mouse actions seamlessly.</li>
+  <li>Voice commands allow hands-free control for tasks like volume adjustment and opening apps.</li>
 </ul>
 
 ---
+
 <h3 align="center">🧾 Bill Generator</h3>
 <p align="center">
   <a href="https://github.com/ravi5781/Bill_Generator_System">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjlnZ3Y3OTZxbW00dzU1NGl6dGxnaTAyNHQ0bHR4ZDlwemZreTk1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/QytRJAvwnaU7rvvjxC/giphy.gif" width="400"/>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjlnZ3Y3OTZxbW00dzU1NGl6dGxnaTAyNHQ0bHR4ZDlwemZreTk1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/QytRJAvwnaU7rvvjxC/giphy.gif" width="320"/>
   </a>
 </p>
 <p align="center">
@@ -89,16 +89,11 @@
   <img src="https://img.shields.io/badge/FileHandling-F3CA20?style=for-the-badge&logo=apache&logoColor=white"/>
 </p>
 <ul>
-  <li>Generates invoice dynamically from user input (item, qty, price, tax).</li>
-  <li>Stores generated bills in external files for history & retrieval.</li>
+  <li>Dynamically generates invoices from user input (item, quantity, price, tax).</li>
+  <li>Stores generated bills in external files for history and retrieval.</li>
 </ul>
 
-
-
 ---
-
-
-
 
 ## 📊 GitHub Stats  
 <p align="center">
